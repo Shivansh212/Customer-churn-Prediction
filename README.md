@@ -41,7 +41,7 @@ Follow these steps to set up the project locally.
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/computerscistudent/Customer-Churn-Prediction.git](https://github.com/computerscistudent/Customer-Churn-Prediction.git)
+git clone [https://github.com/Shivansh212/Customer-Churn-Prediction.git](https://github.com/Shivansh212/Customer-Churn-Prediction.git)
 cd Customer-Churn-Prediction
 ```
 
